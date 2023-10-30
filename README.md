@@ -1,9 +1,9 @@
 # Brewapps
  Develop a RESTful API using Node.js for managing books.
 
-Installation Clone the latest Repository https://github.com/Venkatesh2877/doctorAPI.git
+Installation Clone the latest Repository https://github.com/Venkatesh2877/Brewapps.git
 
-Into the project directory cd doctor API
+Into the project directory cd Brewapps
 
 Installing NPM dependencies npm install
 
