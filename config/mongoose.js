@@ -1,6 +1,8 @@
 const mongoose = require("mongoose");
 
-mongoose.connect("mongodb://127.0.0.1:27017/Books");
+mongoose.connect(
+  "mongodb+srv://reachoutvenky:Athreya@blackcoffer.tzchyqh.mongodb.net/book"
+);
 
 const db = mongoose.connection;
 
